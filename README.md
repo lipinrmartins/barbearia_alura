@@ -7,7 +7,7 @@ Barbearia Alura
 <img src="https://img.shields.io/badge/LICENSE-MIT-green"/>
 </p>
 
-### Tópicos 
+### 📑 Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
@@ -17,13 +17,13 @@ Barbearia Alura
 
 :small_blue_diamond: [Linguagens Utilizadas](#linguagens-utilizadas)
 
-## Descrição do Projeto
+## 💈 Descrição do Projeto
 
 <p align="justify">
-  Projeto desenvolvido com práticas de HTML5 e CSS3 realizado durante Curso de Iniciante em Programação pela Alura, pelo Professor @PedroMarins página.
+  Projeto desenvolvido com práticas de HTML5 e CSS3 realizado durante Curso de Iniciante em Programação na Alura, ministrado pelo Professor Pedro Marins.
 </p>
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 :heavy_check_mark: Exibir Localização 
 
@@ -31,11 +31,13 @@ Barbearia Alura
 
 :heavy_check_mark: Realização de Contato
 
-## Deploy da Aplicação
+## 🖥️ Deploy da Aplicação
 
 > [Barbearia Alura](https://barbeariaalura-eight.vercel.app/)
 
-## :books: Linguagens Utilizadas
+## 📚 Linguagens Utilizadas
 
-- [HTML5](https://www.w3schools.com/html/default.asp)
-- [CSS3](https://www.w3schools.com/css/default.asp)
+<div style="display: inline_block"><br>
+  <img align="center" alt="lipinrmartins-HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="lipinrmartins-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+</div>
